@@ -26,6 +26,15 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+
+# mysql
+<!-- 服务器重启mysql -->
+```bash
+$ service mysqld restart
+
+```
+
+
 ## Installation
 
 ```bash
