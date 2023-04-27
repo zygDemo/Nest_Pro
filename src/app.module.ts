@@ -12,10 +12,10 @@ import { UserModule } from './user/user.module';
     PostsModule,
     TypeOrmModule.forRoot({
       type: 'mysql',
-      host: 'localhost',
+      host: '124.222.102.176',
       port: 3306,
       username: 'root',
-      password: 'root',
+      password: '123456',
       database: 'nestdb',
       entities: [],
       synchronize: true,
